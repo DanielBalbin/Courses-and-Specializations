@@ -4,4 +4,4 @@ Introduction to Data Science in Python da universidade de Michigan da plataforma
 
 https://www.coursera.org/learn/python-data-analysis
 
-Os aquivos estão no formato ipynb, portanto, serão melhor viazualizados no Jupyter notebook.
+Os aquivos estão no formato ipynb, portanto, serão melhor viazualizados no Jupyter notebook para edição.
