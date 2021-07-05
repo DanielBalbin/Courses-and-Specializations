@@ -6,4 +6,4 @@ Este repositorio contem projetos de conclusão de curso e de especializações d
 
 English:
 
-This repository contains project's related to courses and specializations in which I participated.
+This repository contains projects related to courses and specializations in which I participated.
