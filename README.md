@@ -1,6 +1,6 @@
 # Courses-and-Specializations
 
-Portugues:
+Português:
 
 Este repositorio contem projetos de conclusão de curso e de especializações das quais participei.
 
