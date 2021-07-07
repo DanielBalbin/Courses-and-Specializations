@@ -1,3 +1,6 @@
+-- Realiza um outer join seguindo de guia a tabela a direita (customers_new) 
+-- As tabelas utilizadas são copias das tabelas fornecidas pelo curso
+
 USE sql_store;
 
 SELECT  
